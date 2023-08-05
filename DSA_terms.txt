@@ -1,0 +1,15 @@
+memory layout of C programs
+what is allocation and deallocation
+dynamic memory 
+dynamic variable
+explicity
+run time
+
+difference .c and .exe
+first compile
+
+compiler and interpreter
+
+compile time and run time
+
+abstract data type

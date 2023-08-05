@@ -1,0 +1,25 @@
+Http, methods, crud, url, Queryparameters, ?/, Resource, 
+How to implement REST API in node J's?
+
+Fetch API, url, API program
+Dey run
+Dictionary in Python is hash map behind the scene
+--------------------------------------------
+
+- Kind of problem need to be solve + select proper data structure.
+- memory(RAM) layout: position/structure of data
+- List: serial data allocation in memory(contigeous memory location)
+- Dictionary in Python is hash-map behind the scene: key->hash-function->address-of-bucket,(Order of 1-complexcity for search-fast)
+
+- Programming is art(well knowledeg of DSA) and science
+
+- Data structure: Array, Hash-Table, Linked-List.
+- Programming Language:
+     - Python: List, Dictionary, Not avialable
+     - Java: Native array/ArrayList, HashMap/ LinkedHashMap, Linkedlist
+     - C++: Native array/ std::vector, std::map, std::list
+
+- Big O notation.
+	- Big-O-notation is used-to-measure how running-time or space-requirements for-your-program grow as input-size growns.
+
+- 

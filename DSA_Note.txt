@@ -1,0 +1,73 @@
+Bigdata
+Hadoop
+AI
+
+Flowchat
+Pseudocode
+
+Data Type?
+Abstract Data Type ???
+
+Algorithm
+Data Structure => variable/structure to store data e.g (Array,List etc) => how do you store your data and use it efficiently.
+
+Problem => Solution (Algorithm + Data_Structure)
+
+Interface => Function_Declear
+Implementation => Function_Defination (How it behaves)
+
+Characteristics of Data_Structure:
+1.Correctness
+2.Time Complexity
+3.Space Complexity
+
+
+
+Complete Data_Structure
+{
+Type of Data_Structure:-
+
+A).Primitive Data Structure => Simply Primitive_Datatypes -> These are the single memory location which can hold a value only.
+  1.int
+  2.float
+  3.char
+  4.double
+  5.pointer
+
+B).Non-Primitive Data Structure
+   1. Linear Data_Strucutre (sequencial)
+      a.)Arrays
+      b.)Lists
+	   i.Single Link_list
+	  ii.Double Link_list 
+	 iii.Circular Link_list
+
+      c.)Stacks
+      d.)Queues
+
+   2.Non-Linear Data_Strucutre (non-sequencial/random)
+      a.)Trees
+	    i.Binary
+	   ii.Binary Search Tree
+
+      b.)Graphs
+
+Note:How data is arranged in list,stacks,queues,trees,graphs ??? ==> Data_Structure
+}
+
+#There are some common major operation that can be performed in these all of the above Non-Primitive Data_Structure :
+1>Searching
+2>Sorting
+3>Insertion
+4>Deletion
+5>Updation
+
+MAP???
+
+
+
+
+
+
+Linear: arrays, lists. Tree: binary, heaps, space partitioning etc. Hash: distributed hash table, hash tree etc.
+
